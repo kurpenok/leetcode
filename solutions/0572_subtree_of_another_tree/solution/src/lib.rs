@@ -19,77 +19,32 @@ impl TreeNode {
     }
 }
 
-fn match_trees(
-    node: &Option<Rc<RefCell<TreeNode>>>,
-    sub_node: &Option<Rc<RefCell<TreeNode>>>,
-    flag: &mut bool,
-    subflag: &mut bool,
-) {
-    if *flag || *subflag {
-        return;
-    }
-
-    match node {
-        Some(node) => {
-            let node_left = node.as_ref().borrow().left.clone();
-            let node_right = node.as_ref().borrow().right.clone();
-
-            match sub_node {
-                Some(sub_node) => {
-                    let sub_node_left = sub_node.as_ref().borrow().left.clone();
-                    let sub_node_right = sub_node.as_ref().borrow().right.clone();
-
-                    if node.as_ref().borrow().val != sub_node.as_ref().borrow().val {
-                        *subflag = true;
-                    }
-
-                    match_trees(&node_left, &sub_node_left, flag, subflag);
-                    match_trees(&node_right, &sub_node_right, flag, subflag);
-                }
-                None => {
-                    *subflag = true;
-                    return;
-                }
-            }
+fn is_same_tree(s: &Option<Rc<RefCell<TreeNode>>>, t: &Option<Rc<RefCell<TreeNode>>>) -> bool {
+    match (s, t) {
+        (Some(s), Some(t)) => {
+            let s_borrow = s.borrow();
+            let t_borrow = t.borrow();
+            s_borrow.val == t_borrow.val
+                && is_same_tree(&s_borrow.left, &t_borrow.left)
+                && is_same_tree(&s_borrow.right, &t_borrow.right)
         }
-        None => {
-            if sub_node.is_some() {
-                *subflag = true;
-            }
-        }
+        (None, None) => true,
+        _ => false,
     }
 }
 
-fn check_node(
+fn check_subtree(
     node: &Option<Rc<RefCell<TreeNode>>>,
     sub_root: &Option<Rc<RefCell<TreeNode>>>,
-    flag: &mut bool,
-) {
-    if *flag {
-        return;
-    }
-
+) -> bool {
     match node {
-        Some(node) => {
-            let left = node.as_ref().borrow().left.clone();
-            let right = node.as_ref().borrow().right.clone();
-
-            let mut subflag: bool = false;
-            match_trees(&left, sub_root, flag, &mut subflag);
-            if !subflag {
-                *flag = true;
-            }
-
-            let mut subflag: bool = false;
-            match_trees(&right, sub_root, flag, &mut subflag);
-            if !subflag {
-                *flag = true;
-            }
-
-            check_node(&left, sub_root, flag);
-            check_node(&right, sub_root, flag);
+        Some(n) => {
+            let n_borrow = n.borrow();
+            is_same_tree(node, sub_root)
+                || check_subtree(&n_borrow.left, sub_root)
+                || check_subtree(&n_borrow.right, sub_root)
         }
-        None => return,
+        None => false,
     }
 }
 
@@ -97,17 +52,7 @@ pub fn is_subtree(
     root: Option<Rc<RefCell<TreeNode>>>,
     sub_root: Option<Rc<RefCell<TreeNode>>>,
 ) -> bool {
-    let mut flag: bool = false;
-
-    let mut subflag: bool = false;
-    match_trees(&root, &sub_root, &mut flag, &mut subflag);
-    if !subflag {
-        flag = true;
-    }
-
-    check_node(&root, &sub_root, &mut flag);
-
-    flag
+    check_subtree(&root, &sub_root)
 }
 
 #[cfg(test)]
