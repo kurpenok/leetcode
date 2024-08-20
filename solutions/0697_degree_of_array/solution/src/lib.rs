@@ -2,27 +2,24 @@ use std::collections::HashMap;
 
 pub fn find_shortest_sub_array(nums: Vec<i32>) -> i32 {
     let mut counter: HashMap<i32, usize> = HashMap::new();
-
-    for n in &nums {
+    nums.iter().for_each(|n| {
         counter
             .entry(*n)
             .and_modify(|count| *count += 1)
             .or_insert(1);
-    }
+    });
 
-    let max_value: usize = *counter.values().max().unwrap();
-    let keys_with_max_value: Vec<i32> = counter
+    let max_count: usize = *counter.values().max().unwrap();
+    let nums_with_max_count: Vec<i32> = counter
         .iter()
-        .filter(|(_, &v)| v == max_value)
-        .map(|(k, _)| *k)
+        .filter(|(_, &count)| count == max_count)
+        .map(|(num, _)| *num)
         .collect();
 
     let mut min_length: usize = nums.len();
-    for key in &keys_with_max_value {
-        let left: usize = nums.iter().position(|&e| e == *key).unwrap();
-        let right: usize = nums.len() - nums.iter().rev().position(|&e| e == *key).unwrap();
-
-        println!("{} {} {}", key, left, right);
+    for num in &nums_with_max_count {
+        let left: usize = nums.iter().position(|&n| n == *num).unwrap();
+        let right: usize = nums.len() - nums.iter().rev().position(|&n| n == *num).unwrap();
 
         min_length = std::cmp::min(min_length, right - left);
     }
