@@ -97,3 +97,4 @@ pub mod s0744_find_smallest_letter_greater_than_target;
 pub mod s0747_largest_number_at_least_twice_of_others;
 pub mod s0748_shortest_completing_word;
 pub mod s0762_prime_number_of_set_bits_in_binary_representation;
+pub mod s0766_toeplitz_matrix;
