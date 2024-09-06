@@ -88,6 +88,7 @@ pub mod s0682_baseball_game;
 pub mod s0693_binary_number_with_alternating_bits;
 pub mod s0696_count_binary_substrings;
 pub mod s0697_degree_of_array;
+pub mod s0700_search_in_a_binary_search_tree;
 pub mod s0709_to_lower_case;
 pub mod s0717_1_bit_and_2_bit_characters;
 pub mod s0724_find_pivot_index;
