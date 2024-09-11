@@ -103,3 +103,4 @@ pub mod s0762_prime_number_of_set_bits_in_binary_representation;
 pub mod s0766_toeplitz_matrix;
 pub mod s0771_jewels_and_stones;
 pub mod s0783_minimum_distance_between_bst_nodes;
+pub mod s0796_rotate_string;
