@@ -91,6 +91,7 @@ pub mod s0697_degree_of_array;
 pub mod s0700_search_in_a_binary_search_tree;
 pub mod s0703_kth_largest_element_in_a_stream;
 pub mod s0704_binary_search;
+pub mod s0705_design_hashset;
 pub mod s0709_to_lower_case;
 pub mod s0717_1_bit_and_2_bit_characters;
 pub mod s0724_find_pivot_index;
