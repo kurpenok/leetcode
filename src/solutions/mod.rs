@@ -109,3 +109,4 @@ pub mod s0796_rotate_string;
 pub mod s0804_unique_morse_code_words;
 pub mod s0806_number_of_lines_to_write_string;
 pub mod s0812_largest_triangle_area;
+pub mod s0819_most_common_word;
