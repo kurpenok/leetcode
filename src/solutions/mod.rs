@@ -115,3 +115,4 @@ pub mod s0824_goat_latin;
 pub mod s0830_positions_of_large_groups;
 pub mod s0832_flipping_an_image;
 pub mod s0836_rectangle_overlap;
+pub mod s0844_backspace_string_compare;
