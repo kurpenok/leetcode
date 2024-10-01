@@ -117,3 +117,4 @@ pub mod s0832_flipping_an_image;
 pub mod s0836_rectangle_overlap;
 pub mod s0844_backspace_string_compare;
 pub mod s0859_buddy_strings;
+pub mod s0860_lemonade_change;
