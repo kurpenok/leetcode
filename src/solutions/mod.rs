@@ -120,3 +120,4 @@ pub mod s0859_buddy_strings;
 pub mod s0860_lemonade_change;
 pub mod s0867_transpose_matrix;
 pub mod s0868_binary_gap;
+pub mod s0872_leaf_similar_trees;
