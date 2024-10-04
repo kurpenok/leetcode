@@ -15,12 +15,15 @@ mod test {
     use super::*;
 
     #[test]
-    fn test_solution() {
+    fn test_case_1() {
         assert_eq!(
             flip_and_invert_image(vec![vec![1, 1, 0], vec![1, 0, 1], vec![0, 0, 0]]),
             vec![vec![1, 0, 0], vec![0, 1, 0], vec![1, 1, 1]]
         );
+    }
 
+    #[test]
+    fn test_case_2() {
         assert_eq!(
             flip_and_invert_image(vec![
                 vec![1, 1, 0, 0],
