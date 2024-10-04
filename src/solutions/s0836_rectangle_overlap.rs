@@ -7,17 +7,23 @@ mod test {
     use super::*;
 
     #[test]
-    fn test_solution() {
+    fn test_case_1() {
         assert_eq!(
             is_rectangle_overlap(vec![0, 0, 2, 2], vec![1, 1, 3, 3]),
             true
         );
+    }
 
+    #[test]
+    fn test_case_2() {
         assert_eq!(
             is_rectangle_overlap(vec![0, 0, 1, 1], vec![1, 0, 2, 1]),
             false
         );
+    }
 
+    #[test]
+    fn test_case_3() {
         assert_eq!(
             is_rectangle_overlap(vec![0, 0, 1, 1], vec![2, 2, 3, 3]),
             false
