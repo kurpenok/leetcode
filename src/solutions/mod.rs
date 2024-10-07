@@ -121,3 +121,4 @@ pub mod s0860_lemonade_change;
 pub mod s0867_transpose_matrix;
 pub mod s0868_binary_gap;
 pub mod s0872_leaf_similar_trees;
+pub mod s0876_middle_of_the_linked_list;
