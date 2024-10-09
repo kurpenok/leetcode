@@ -16,6 +16,7 @@ pub fn uncommon_from_sentences(s1: String, s2: String) -> Vec<String> {
             uncommon_words.push(word);
         }
     }
+    uncommon_words.sort();
 
     uncommon_words
 }
@@ -31,7 +32,7 @@ mod test {
                 "this apple is sweet".to_string(),
                 "this apple is sour".to_string()
             ),
-            ["sweet", "sour"]
+            ["sour", "sweet"]
         )
     }
 
