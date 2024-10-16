@@ -128,3 +128,4 @@ pub mod s0888_fair_candy_swap;
 pub mod s0892_surface_area_of_3d_shapes;
 pub mod s0896_monotonic_array;
 pub mod s0897_increasing_order_search_tree;
+pub mod s0905_sort_array_by_parity;
