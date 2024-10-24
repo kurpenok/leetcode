@@ -134,3 +134,4 @@ pub mod s0914_x_of_a_kind_in_a_deck_of_cards;
 pub mod s0917_reverse_only_letters;
 pub mod s0922_sort_array_by_parity_ii;
 pub mod s0925_long_pressed_name;
+pub mod s0929_unique_email_addresses;
