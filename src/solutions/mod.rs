@@ -137,3 +137,4 @@ pub mod s0925_long_pressed_name;
 pub mod s0929_unique_email_addresses;
 pub mod s0933_number_of_recent_calls;
 pub mod s0941_valid_mountain_array;
+pub mod s0942_di_string_match;
