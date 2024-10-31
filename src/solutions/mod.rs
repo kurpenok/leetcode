@@ -139,3 +139,4 @@ pub mod s0933_number_of_recent_calls;
 pub mod s0941_valid_mountain_array;
 pub mod s0942_di_string_match;
 pub mod s0944_delete_columns_to_make_sorted;
+pub mod s0953_verifying_an_alien_dictionary;
