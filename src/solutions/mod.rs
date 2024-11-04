@@ -141,3 +141,4 @@ pub mod s0942_di_string_match;
 pub mod s0944_delete_columns_to_make_sorted;
 pub mod s0953_verifying_an_alien_dictionary;
 pub mod s0961_n_repeated_element_in_size_2n_array;
+pub mod s0965_univalued_binary_tree;
