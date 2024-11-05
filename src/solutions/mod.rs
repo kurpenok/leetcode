@@ -57,6 +57,7 @@ pub mod s0501_find_mode_in_binary_search_tree;
 pub mod s0504_base_7;
 pub mod s0506_relative_ranks;
 pub mod s0507_perfect_number;
+pub mod s0509_fibonacci_number;
 pub mod s0520_detect_capital;
 pub mod s0521_longest_uncommon_subsequence_i;
 pub mod s0530_minimum_absolute_difference_in_bst;
