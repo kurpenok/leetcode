@@ -144,3 +144,4 @@ pub mod s0953_verifying_an_alien_dictionary;
 pub mod s0961_n_repeated_element_in_size_2n_array;
 pub mod s0965_univalued_binary_tree;
 pub mod s0976_largest_perimeter_triangle;
+pub mod s0977_squares_of_a_sorted_array;
