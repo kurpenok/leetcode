@@ -149,3 +149,4 @@ pub mod s0989_add_to_array_form_of_integer;
 pub mod s0993_cousins_in_binary_tree;
 pub mod s0997_find_the_town_judge;
 pub mod s0999_available_captures_for_rook;
+pub mod s1002_find_common_characters;
