@@ -155,3 +155,4 @@ pub mod s1009_complement_of_base_10_integer;
 pub mod s1013_partition_array_into_three_parts_with_equal_sum;
 pub mod s1018_binary_prefix_divisible_by_5;
 pub mod s1021_remove_outermost_parentheses;
+pub mod s1022_sum_of_root_to_leaf_binary_numbers;
