@@ -157,3 +157,4 @@ pub mod s1018_binary_prefix_divisible_by_5;
 pub mod s1021_remove_outermost_parentheses;
 pub mod s1022_sum_of_root_to_leaf_binary_numbers;
 pub mod s1025_divisor_game;
+pub mod s1030_matrix_cells_in_distance_order;
