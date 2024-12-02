@@ -160,4 +160,5 @@ pub mod s1025_divisor_game;
 pub mod s1030_matrix_cells_in_distance_order;
 pub mod s1037_valid_boomerang;
 pub mod s1046_last_stone_weight;
+pub mod s1047_remove_all_adjacent_duplicates_in_string;
 pub mod s1160_find_words_that_can_be_formed_by_characters;
