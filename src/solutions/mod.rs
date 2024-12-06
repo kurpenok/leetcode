@@ -164,4 +164,5 @@ pub mod s1047_remove_all_adjacent_duplicates_in_string;
 pub mod s1051_height_checker;
 pub mod s1071_greatest_common_divisor_of_strings;
 pub mod s1078_occurrences_after_bigram;
+pub mod s1089_duplicate_zeros;
 pub mod s1160_find_words_that_can_be_formed_by_characters;
