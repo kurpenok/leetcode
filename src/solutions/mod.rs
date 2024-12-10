@@ -166,4 +166,5 @@ pub mod s1071_greatest_common_divisor_of_strings;
 pub mod s1078_occurrences_after_bigram;
 pub mod s1089_duplicate_zeros;
 pub mod s1103_distribute_candies_to_people;
+pub mod s1108_defanging_an_ip_address;
 pub mod s1160_find_words_that_can_be_formed_by_characters;
