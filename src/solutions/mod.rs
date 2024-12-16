@@ -168,6 +168,7 @@ pub mod s1089_duplicate_zeros;
 pub mod s1103_distribute_candies_to_people;
 pub mod s1108_defanging_an_ip_address;
 pub mod s1122_relative_sort_array;
+pub mod s1128_number_of_equivalent_domino_pairs;
 pub mod s1160_find_words_that_can_be_formed_by_characters;
 pub mod s1287_element_appearing_more_than_25_in_sorted_array;
 pub mod s1619_mean_of_array_after_removing_some_elements;
