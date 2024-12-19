@@ -173,4 +173,5 @@ pub mod s1137_nth_tribonacci_number;
 pub mod s1160_find_words_that_can_be_formed_by_characters;
 pub mod s1287_element_appearing_more_than_25_in_sorted_array;
 pub mod s1299_replace_elements_with_greatest_element_of_right_side;
+pub mod s1313_decompress_run_length_encoded_list;
 pub mod s1619_mean_of_array_after_removing_some_elements;
