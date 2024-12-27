@@ -178,5 +178,6 @@ pub mod s1299_replace_elements_with_greatest_element_of_right_side;
 pub mod s1313_decompress_run_length_encoded_list;
 pub mod s1331_rank_transform_of_an_array;
 pub mod s1360_number_of_days_between_two_dates;
+pub mod s1507_reformat_date;
 pub mod s1619_mean_of_array_after_removing_some_elements;
 pub mod s1935_maximum_number_of_words_you_can_type;
