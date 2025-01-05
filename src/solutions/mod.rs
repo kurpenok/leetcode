@@ -173,6 +173,7 @@ pub mod s1137_nth_tribonacci_number;
 pub mod s1154_day_of_the_year;
 pub mod s1160_find_words_that_can_be_formed_by_characters;
 pub mod s1175_prime_arrangements;
+pub mod s1184_distance_between_bus_stops;
 pub mod s1287_element_appearing_more_than_25_in_sorted_array;
 pub mod s1299_replace_elements_with_greatest_element_of_right_side;
 pub mod s1313_decompress_run_length_encoded_list;
