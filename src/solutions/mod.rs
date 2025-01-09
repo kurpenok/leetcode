@@ -185,3 +185,4 @@ pub mod s1507_reformat_date;
 pub mod s1550_three_consecutive_odds;
 pub mod s1619_mean_of_array_after_removing_some_elements;
 pub mod s1935_maximum_number_of_words_you_can_type;
+pub mod s1957_delete_characters_to_make_fancy_string;
