@@ -180,6 +180,7 @@ pub mod s1200_minimum_absolute_difference;
 pub mod s1207_unique_number_of_occurrences;
 pub mod s1217_minimum_cost_to_move_chips_to_the_same_position;
 pub mod s1221_split_a_string_in_balanced_strings;
+pub mod s1232_check_if_it_is_a_straight_line;
 pub mod s1287_element_appearing_more_than_25_in_sorted_array;
 pub mod s1299_replace_elements_with_greatest_element_of_right_side;
 pub mod s1313_decompress_run_length_encoded_list;
