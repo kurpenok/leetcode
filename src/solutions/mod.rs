@@ -195,6 +195,7 @@ pub mod s1550_three_consecutive_odds;
 pub mod s1619_mean_of_array_after_removing_some_elements;
 pub mod s1935_maximum_number_of_words_you_can_type;
 pub mod s1957_delete_characters_to_make_fancy_string;
+pub mod s2215_find_the_difference_of_two_arrays;
 pub mod s2273_find_resultant_array_after_removing_anagrams;
 pub mod s2303_calculate_amount_paid_in_taxes;
 pub mod s2309_greatest_english_letter_in_upper_and_lower_case;
