@@ -8,6 +8,7 @@ pub mod s0007_reverse_integer;
 pub mod s0008_string_to_integer;
 pub mod s0009_palindrome_number;
 pub mod s0011_container_with_most_water;
+pub mod s0012_integer_to_roman;
 pub mod s0013_roman_to_integer;
 pub mod s0014_longest_common_prefix;
 pub mod s0015_3sum;
