@@ -14,6 +14,7 @@ pub mod s0014_longest_common_prefix;
 pub mod s0015_3sum;
 pub mod s0016_3sum_closest;
 pub mod s0017_letter_combinations_of_a_phone_number;
+pub mod s0018_4sum;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
