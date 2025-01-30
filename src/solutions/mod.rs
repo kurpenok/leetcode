@@ -17,6 +17,7 @@ pub mod s0017_letter_combinations_of_a_phone_number;
 pub mod s0018_4sum;
 pub mod s0019_remove_nth_node_from_end_of_list;
 pub mod s0022_generate_parentheses;
+pub mod s0024_swap_nodes_in_pairs;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
