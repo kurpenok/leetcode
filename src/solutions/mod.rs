@@ -20,6 +20,7 @@ pub mod s0022_generate_parentheses;
 pub mod s0024_swap_nodes_in_pairs;
 pub mod s0029_divide_two_integers;
 pub mod s0031_next_permutation;
+pub mod s0033_search_in_rotated_sorted_array;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
