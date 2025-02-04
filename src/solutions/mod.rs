@@ -22,6 +22,7 @@ pub mod s0029_divide_two_integers;
 pub mod s0031_next_permutation;
 pub mod s0033_search_in_rotated_sorted_array;
 pub mod s0034_find_first_and_last_position_of_element_in_sorted_array;
+pub mod s0036_valid_sudoku;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
