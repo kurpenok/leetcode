@@ -1,38 +1,44 @@
-use std::collections::HashSet;
-
 fn helper(
     combination: &mut Vec<i32>,
-    combinations: &mut HashSet<Vec<i32>>,
+    remain: i32,
+    start: usize,
     candidates: &Vec<i32>,
-    target: i32,
+    combinations: &mut Vec<Vec<i32>>,
 ) {
-    let sum = combination.iter().sum::<i32>();
-
-    if sum == target {
-        let mut combination = combination.clone();
-        combination.sort();
-        combinations.insert(combination);
+    if remain == 0 {
+        combinations.push(combination.clone());
         return;
     }
 
-    if sum > target {
-        return;
-    }
-
-    for candidate in candidates {
-        if sum + candidate <= target {
-            combination.push(*candidate);
-            helper(combination, combinations, candidates, target);
-            combination.pop();
+    for i in start..candidates.len() {
+        if i > start && candidates[i] == candidates[i - 1] {
+            continue;
         }
+
+        if candidates[i] > remain {
+            break;
+        }
+
+        combination.push(candidates[i]);
+        helper(
+            combination,
+            remain - candidates[i],
+            i,
+            candidates,
+            combinations,
+        );
+        combination.pop();
     }
 }
-pub fn combination_sum(candidates: Vec<i32>, target: i32) -> Vec<Vec<i32>> {
-    let mut combinations: HashSet<Vec<i32>> = HashSet::new();
-    helper(&mut vec![], &mut combinations, &candidates, target);
 
-    let mut combinations: Vec<Vec<i32>> = combinations.into_iter().collect();
-    combinations.sort();
+pub fn combination_sum(candidates: Vec<i32>, target: i32) -> Vec<Vec<i32>> {
+    let mut combinations: Vec<Vec<i32>> = Vec::new();
+
+    let mut candidates = candidates;
+    candidates.sort();
+
+    helper(&mut vec![], target, 0, &candidates, &mut combinations);
+
     combinations
 }
 
