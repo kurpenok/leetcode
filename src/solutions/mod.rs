@@ -27,6 +27,7 @@ pub mod s0038_count_and_say;
 pub mod s0039_combination_sum;
 pub mod s0040_combination_sum_ii;
 pub mod s0043_mutliply_strings;
+pub mod s0045_jump_game_ii;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
