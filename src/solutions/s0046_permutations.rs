@@ -10,6 +10,7 @@ fn helper(nums: &mut Vec<i32>, left: usize, right: usize, permutations: &mut Vec
         nums.swap(left, i);
     }
 }
+
 pub fn permute(nums: Vec<i32>) -> Vec<Vec<i32>> {
     let mut nums = nums;
     let nums_len = nums.len();
