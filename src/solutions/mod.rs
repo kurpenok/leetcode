@@ -34,6 +34,7 @@ pub mod s0048_rotate_image;
 pub mod s0049_group_anagrams;
 pub mod s0053_maximum_subarray;
 pub mod s0054_spiral_matrix;
+pub mod s0055_jump_game;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
