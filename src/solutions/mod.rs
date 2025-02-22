@@ -217,6 +217,7 @@ pub mod s1221_split_a_string_in_balanced_strings;
 pub mod s1232_check_if_it_is_a_straight_line;
 pub mod s1252_cells_with_odd_values_in_a_matrix;
 pub mod s1260_shift_2d_grid;
+pub mod s1266_minimum_time_visiting_all_points;
 pub mod s1287_element_appearing_more_than_25_in_sorted_array;
 pub mod s1299_replace_elements_with_greatest_element_of_right_side;
 pub mod s1313_decompress_run_length_encoded_list;
