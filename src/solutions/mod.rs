@@ -42,6 +42,7 @@ pub mod s0061_rotate_list;
 pub mod s0062_unique_paths;
 pub mod s0063_unique_paths_ii;
 pub mod s0064_minimum_path_sum;
+pub mod s0071_simplify_path;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
