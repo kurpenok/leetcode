@@ -225,6 +225,7 @@ pub mod s1266_minimum_time_visiting_all_points;
 pub mod s1275_find_winner_on_a_tic_tac_toe_game;
 pub mod s1281_subtract_the_product_and_sum_of_digits_of_an_integer;
 pub mod s1287_element_appearing_more_than_25_in_sorted_array;
+pub mod s1290_convert_binary_number_in_a_linked_list_to_integer;
 pub mod s1299_replace_elements_with_greatest_element_of_right_side;
 pub mod s1313_decompress_run_length_encoded_list;
 pub mod s1331_rank_transform_of_an_array;
