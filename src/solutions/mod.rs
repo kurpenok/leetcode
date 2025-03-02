@@ -48,6 +48,7 @@ pub mod s0073_set_matrix_zeroes;
 pub mod s0074_search_in_a_2d_matrix;
 pub mod s0075_sort_colors;
 pub mod s0077_combinations;
+pub mod s0078_subsets;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
