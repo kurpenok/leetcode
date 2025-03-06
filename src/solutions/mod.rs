@@ -243,6 +243,7 @@ pub mod s1317_convert_integer_to_the_sum_of_two_no_zero_integers;
 pub mod s1323_maximum_69_number;
 pub mod s1331_rank_transform_of_an_array;
 pub mod s1332_remove_palindromic_subsequences;
+pub mod s1337_the_k_weakest_rows_in_a_matrix;
 pub mod s1360_number_of_days_between_two_dates;
 pub mod s1507_reformat_date;
 pub mod s1550_three_consecutive_odds;
