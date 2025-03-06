@@ -52,6 +52,7 @@ pub mod s0078_subsets;
 pub mod s0079_word_search;
 pub mod s0080_remove_duplicates_from_sorted_array_ii;
 pub mod s0081_search_in_rotated_sorted_array_ii;
+pub mod s0082_remove_duplicates_from_sorted_list_ii;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
