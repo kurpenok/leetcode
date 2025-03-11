@@ -57,6 +57,7 @@ pub mod s0086_partition_list;
 pub mod s0089_gray_code;
 pub mod s0090_subsets_ii;
 pub mod s0091_decode_ways;
+pub mod s0092_reverse_linked_list_ii;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
