@@ -254,6 +254,7 @@ pub mod s1346_check_if_n_and_its_double_exist;
 pub mod s1351_count_negative_numbers_in_a_sorted_matrix;
 pub mod s1356_sort_integers_by_the_number_of_1_bits;
 pub mod s1360_number_of_days_between_two_dates;
+pub mod s1365_how_many_numbers_are_smaller_than_the_current_number;
 pub mod s1507_reformat_date;
 pub mod s1550_three_consecutive_odds;
 pub mod s1619_mean_of_array_after_removing_some_elements;
