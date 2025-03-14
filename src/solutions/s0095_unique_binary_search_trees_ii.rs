@@ -55,9 +55,6 @@ pub fn generate_trees(n: i32) -> Vec<Option<Rc<RefCell<TreeNode>>>> {
 mod test {
     use super::*;
 
-    //Some(RefCell { value: TreeNode { val: 3, left: Some(RefCell { value: TreeNode { val: 2, left: Some(RefCell { value: TreeNod
-    //e { val: 1, left: None, right: None } }), right: None } }), right: None } })]
-
     #[test]
     fn test_case_1() {
         assert_eq!(
