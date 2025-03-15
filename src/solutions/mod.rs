@@ -61,6 +61,7 @@ pub mod s0092_reverse_linked_list_ii;
 pub mod s0093_restore_ip_addresses;
 pub mod s0095_unique_binary_search_trees_ii;
 pub mod s0096_unique_binary_search_trees;
+pub mod s0097_interleaving_string;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
