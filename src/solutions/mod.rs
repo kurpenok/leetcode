@@ -266,6 +266,7 @@ pub mod s1370_increasing_decreasing_string;
 pub mod s1374_generate_a_string_with_characters_that_have_odd_counts;
 pub mod s1380_lucky_numbers_in_a_matrix;
 pub mod s1385_find_the_distance_value_between_two_arrays;
+pub mod s1389_create_target_array_in_the_given_order;
 pub mod s1507_reformat_date;
 pub mod s1550_three_consecutive_odds;
 pub mod s1619_mean_of_array_after_removing_some_elements;
