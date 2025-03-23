@@ -275,6 +275,7 @@ pub mod s1389_create_target_array_in_the_given_order;
 pub mod s1394_find_lucky_integer_in_an_array;
 pub mod s1399_count_largest_group;
 pub mod s1403_minimum_subsequence_in_non_increasing_order;
+pub mod s1408_string_matching_in_an_array;
 pub mod s1507_reformat_date;
 pub mod s1550_three_consecutive_odds;
 pub mod s1619_mean_of_array_after_removing_some_elements;
