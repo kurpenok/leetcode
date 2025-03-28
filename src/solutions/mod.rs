@@ -283,6 +283,7 @@ pub mod s1413_minimum_value_to_get_positive_step_by_step_sum;
 pub mod s1417_reformat_the_string;
 pub mod s1422_maximum_score_after_splitting_a_string;
 pub mod s1431_kids_with_the_greatest_number_of_candies;
+pub mod s1436_destination_city;
 pub mod s1507_reformat_date;
 pub mod s1550_three_consecutive_odds;
 pub mod s1619_mean_of_array_after_removing_some_elements;
