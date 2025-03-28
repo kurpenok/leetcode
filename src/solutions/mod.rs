@@ -72,6 +72,7 @@ pub mod s0107_binary_tree_level_order_traversal_ii;
 pub mod s0109_convert_sorted_list_to_binary_search_tree;
 pub mod s0113_path_sum_ii;
 pub mod s0114_flatten_binary_tree_to_linked_list;
+pub mod s0120_triangle;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
