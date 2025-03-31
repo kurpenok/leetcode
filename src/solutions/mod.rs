@@ -75,6 +75,7 @@ pub mod s0114_flatten_binary_tree_to_linked_list;
 pub mod s0120_triangle;
 pub mod s0122_best_time_to_buy_and_sell_stock_ii;
 pub mod s0128_longest_consecutive_sequence;
+pub mod s0129_sum_root_to_leaf_numbers;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
