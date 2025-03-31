@@ -289,6 +289,7 @@ pub mod s1431_kids_with_the_greatest_number_of_candies;
 pub mod s1436_destination_city;
 pub mod s1437_check_if_all_1s_are_at_least_length_k_places_away;
 pub mod s1446_consecutive_characters;
+pub mod s1450_number_of_students_doing_homework_at_a_given_time;
 pub mod s1507_reformat_date;
 pub mod s1550_three_consecutive_odds;
 pub mod s1619_mean_of_array_after_removing_some_elements;
