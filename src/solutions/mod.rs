@@ -296,6 +296,7 @@ pub mod s1450_number_of_students_doing_homework_at_a_given_time;
 pub mod s1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence;
 pub mod s1460_make_two_arrays_equal_by_reversing_subarrays;
 pub mod s1464_maximum_product_of_two_elements_in_an_array;
+pub mod s1470_shuffle_the_array;
 pub mod s1507_reformat_date;
 pub mod s1550_three_consecutive_odds;
 pub mod s1619_mean_of_array_after_removing_some_elements;
