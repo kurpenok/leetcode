@@ -79,6 +79,7 @@ pub mod s0129_sum_root_to_leaf_numbers;
 pub mod s0130_surrounded_regions;
 pub mod s0131_palindrome_partitioning;
 pub mod s0134_gas_station;
+pub mod s0137_single_number_ii;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
