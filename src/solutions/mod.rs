@@ -306,6 +306,7 @@ pub mod s1475_final_prices_with_a_special_discount_in_a_shop;
 pub mod s1480_running_sum_of_1d_array;
 pub mod s1486_xor_operation_in_an_array;
 pub mod s1491_average_salary_excluding_the_minimum_and_maximum_salary;
+pub mod s1496_path_crossing;
 pub mod s1507_reformat_date;
 pub mod s1550_three_consecutive_odds;
 pub mod s1619_mean_of_array_after_removing_some_elements;
