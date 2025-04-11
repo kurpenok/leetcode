@@ -84,6 +84,7 @@ pub mod s0139_word_break;
 pub mod s0143_reorder_list;
 pub mod s0146_lru_cache;
 pub mod s0147_insertion_sort_list;
+pub mod s0148_sort_list;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
