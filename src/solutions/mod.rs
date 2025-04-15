@@ -316,6 +316,7 @@ pub mod s1502_can_make_arithmetic_progression_from_sequence;
 pub mod s1507_reformat_date;
 pub mod s1512_number_of_good_pairs;
 pub mod s1518_water_bottles;
+pub mod s1523_count_odd_numbers_in_an_interval_range;
 pub mod s1550_three_consecutive_odds;
 pub mod s1619_mean_of_array_after_removing_some_elements;
 pub mod s1935_maximum_number_of_words_you_can_type;
