@@ -89,6 +89,7 @@ pub mod s0150_evaluate_reverse_polish_notation;
 pub mod s0151_reverse_words_in_a_string;
 pub mod s0152_maximum_product_subarray;
 pub mod s0153_find_minimum_in_rotated_sorted_array;
+pub mod s0155_min_stack;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
