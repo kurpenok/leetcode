@@ -328,6 +328,7 @@ pub mod s1534_count_good_triplets;
 pub mod s1539_kth_missing_positive_number;
 pub mod s1544_make_the_string_great;
 pub mod s1550_three_consecutive_odds;
+pub mod s1556_thousand_separator;
 pub mod s1619_mean_of_array_after_removing_some_elements;
 pub mod s1935_maximum_number_of_words_you_can_type;
 pub mod s1957_delete_characters_to_make_fancy_string;
