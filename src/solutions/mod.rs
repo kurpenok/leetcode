@@ -94,6 +94,7 @@ pub mod s0162_find_peak_element;
 pub mod s0164_maximum_gap;
 pub mod s0165_compare_version_numbers;
 pub mod s0167_two_sum_ii_input_array_is_sorted;
+pub mod s0172_factorial_trailing_zeroes;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
