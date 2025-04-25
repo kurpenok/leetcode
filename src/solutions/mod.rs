@@ -333,6 +333,7 @@ pub mod s1550_three_consecutive_odds;
 pub mod s1556_thousand_separator;
 pub mod s1560_most_visited_sector_in_a_circular_track;
 pub mod s1566_detect_pattern_of_length_m_repeated_k_or_more_times;
+pub mod s1572_matrix_diagonal_sum;
 pub mod s1619_mean_of_array_after_removing_some_elements;
 pub mod s1935_maximum_number_of_words_you_can_type;
 pub mod s1957_delete_characters_to_make_fancy_string;
