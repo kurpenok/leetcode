@@ -337,6 +337,7 @@ pub mod s1566_detect_pattern_of_length_m_repeated_k_or_more_times;
 pub mod s1572_matrix_diagonal_sum;
 pub mod s1576_replace_all_s_to_avoid_consecutive_repeating_characters;
 pub mod s1582_special_positions_in_a_binary_matrix;
+pub mod s1588_sum_of_all_odd_length_subarrays;
 pub mod s1619_mean_of_array_after_removing_some_elements;
 pub mod s1935_maximum_number_of_words_you_can_type;
 pub mod s1957_delete_characters_to_make_fancy_string;
