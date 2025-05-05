@@ -342,6 +342,7 @@ pub mod s1582_special_positions_in_a_binary_matrix;
 pub mod s1588_sum_of_all_odd_length_subarrays;
 pub mod s1592_rearrange_spaces_between_words;
 pub mod s1598_crawler_log_folder;
+pub mod s1603_design_parking_system;
 pub mod s1619_mean_of_array_after_removing_some_elements;
 pub mod s1935_maximum_number_of_words_you_can_type;
 pub mod s1957_delete_characters_to_make_fancy_string;
