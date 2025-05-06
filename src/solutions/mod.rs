@@ -99,6 +99,7 @@ pub mod s0173_binary_search_tree_iterator;
 pub mod s0179_largest_number;
 pub mod s0187_repeated_dna_sequences;
 pub mod s0189_rotate_array;
+pub mod s0198_house_robber;
 pub mod s0231_power_of_two;
 pub mod s0232_implement_queue_using_stacks;
 pub mod s0234_palindrome_linked_list;
