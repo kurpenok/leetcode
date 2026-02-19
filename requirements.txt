@@ -1,8 +1,0 @@
-numpy==2.2.2
-pandas==2.2.3
-pandas-stubs==2.2.3.241126
-python-dateutil==2.9.0.post0
-pytz==2024.2
-six==1.17.0
-types-pytz==2024.2.0.20241221
-tzdata==2024.2

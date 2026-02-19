@@ -1,0 +1,10 @@
+[project]
+name = "leetcode"
+version = "0.1.0"
+description = "Solving problems from LeetCode"
+readme = "README.md"
+requires-python = ">=3.14"
+license = "MIT"
+authors = [{ name = "Kuat Kurpenov", email = "kurpenov2003@yandex.ru" }]
+keywords = ["algorithms", "leetcode", "python", "rust"]
+dependencies = []
