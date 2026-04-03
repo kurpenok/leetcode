@@ -5,3 +5,4 @@ pub mod s0200_number_of_islands;
 pub mod s0201_bitwise_and_of_numbers_range;
 pub mod s0204_count_primes;
 pub mod s0207_course_schedule;
+pub mod s0208_implement_trie;
