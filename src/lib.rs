@@ -7,3 +7,4 @@ pub mod s0204_count_primes;
 pub mod s0207_course_schedule;
 pub mod s0208_implement_trie;
 pub mod s0209_minimum_size_subarray_sum;
+pub mod s0210_course_schedule_ii;
