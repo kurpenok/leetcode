@@ -9,3 +9,4 @@ pub mod s0208_implement_trie;
 pub mod s0209_minimum_size_subarray_sum;
 pub mod s0210_course_schedule_ii;
 pub mod s1624_largest_substring_between_two_equal_characters;
+pub mod s1629_slowest_key;
