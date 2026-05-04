@@ -13,3 +13,4 @@ pub mod s1624_largest_substring_between_two_equal_characters;
 pub mod s1629_slowest_key;
 pub mod s1636_sort_array_by_increasing_frequency;
 pub mod s1637_widest_vertical_area_between_two_points_containing_no_points;
+pub mod s1640_check_array_formation_through_concatenation;
