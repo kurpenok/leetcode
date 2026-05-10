@@ -12,6 +12,7 @@ pub mod s0210_course_schedule_ii;
 pub mod s0211_design_add_and_search_words_data_structure;
 pub mod s0213_house_robber_ii;
 pub mod s0215_kth_largest_element_in_an_array;
+pub mod s0216_combination_sum_iii;
 pub mod s1624_largest_substring_between_two_equal_characters;
 pub mod s1629_slowest_key;
 pub mod s1636_sort_array_by_increasing_frequency;
