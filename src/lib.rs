@@ -23,3 +23,4 @@ pub mod s1652_defuse_the_bomb;
 pub mod s1656_design_an_ordered_stream;
 pub mod s1662_check_if_two_string_arrays_are_equivalent;
 pub mod s1668_maximum_repeating_substring;
+pub mod s1672_richest_customer_wealth;
