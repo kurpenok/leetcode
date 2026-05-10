@@ -22,3 +22,4 @@ pub mod s1646_get_maximum_in_generated_array;
 pub mod s1652_defuse_the_bomb;
 pub mod s1656_design_an_ordered_stream;
 pub mod s1662_check_if_two_string_arrays_are_equivalent;
+pub mod s1668_maximum_repeating_substring;
