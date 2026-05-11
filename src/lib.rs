@@ -4,6 +4,7 @@ pub mod list;
 pub mod s0001_two_sum;
 pub mod s0002_add_two_numbers;
 pub mod s0003_longest_substring_without_repeating_characters;
+pub mod s0004_median_of_two_sorted_arrays;
 pub mod s0199_binary_tree_right_side_view;
 pub mod s0200_number_of_islands;
 pub mod s0201_bitwise_and_of_numbers_range;
