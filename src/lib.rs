@@ -32,3 +32,4 @@ pub mod s1668_maximum_repeating_substring;
 pub mod s1672_richest_customer_wealth;
 pub mod s1678_goal_parser_interpretation;
 pub mod s1684_count_the_number_of_consistent_strings;
+pub mod s1688_count_of_matches_in_tournament;
