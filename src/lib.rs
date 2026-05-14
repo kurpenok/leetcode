@@ -35,3 +35,4 @@ pub mod s1678_goal_parser_interpretation;
 pub mod s1684_count_the_number_of_consistent_strings;
 pub mod s1688_count_of_matches_in_tournament;
 pub mod s1694_reformat_phone_number;
+pub mod s1700_number_of_students_unable_to_eat_lunch;
