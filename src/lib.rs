@@ -20,6 +20,7 @@ pub mod s0216_combination_sum_iii;
 pub mod s0221_maximal_square;
 pub mod s0223_rectangle_area;
 pub mod s0227_basic_calculator_ii;
+pub mod s0229_majority_element_ii;
 pub mod s1624_largest_substring_between_two_equal_characters;
 pub mod s1629_slowest_key;
 pub mod s1636_sort_array_by_increasing_frequency;
