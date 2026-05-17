@@ -40,3 +40,4 @@ pub mod s1700_number_of_students_unable_to_eat_lunch;
 pub mod s1704_determine_if_string_halves_are_alike;
 pub mod s1710_maximum_units_on_a_truck;
 pub mod s1716_calculate_money_in_leetcode_bank;
+pub mod s1720_decode_xored_array;
