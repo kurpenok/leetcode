@@ -42,3 +42,4 @@ pub mod s1710_maximum_units_on_a_truck;
 pub mod s1716_calculate_money_in_leetcode_bank;
 pub mod s1720_decode_xored_array;
 pub mod s1725_number_of_rectangles_that_can_form_the_largest_square;
+pub mod s1732_find_the_highest_altitude;
