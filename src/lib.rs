@@ -45,3 +45,4 @@ pub mod s1720_decode_xored_array;
 pub mod s1725_number_of_rectangles_that_can_form_the_largest_square;
 pub mod s1732_find_the_highest_altitude;
 pub mod s1736_latest_time_by_replacing_hidden_digits;
+pub mod s1742_maximum_number_of_balls_in_a_box;
