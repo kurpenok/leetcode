@@ -22,6 +22,7 @@ pub mod s0223_rectangle_area;
 pub mod s0227_basic_calculator_ii;
 pub mod s0229_majority_element_ii;
 pub mod s0230_kth_smallest_element_in_a_bst;
+pub mod s0235_lowest_common_ancestor_of_a_binary_search_tree;
 pub mod s1624_largest_substring_between_two_equal_characters;
 pub mod s1629_slowest_key;
 pub mod s1636_sort_array_by_increasing_frequency;
