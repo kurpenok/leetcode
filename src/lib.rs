@@ -48,3 +48,4 @@ pub mod s1732_find_the_highest_altitude;
 pub mod s1736_latest_time_by_replacing_hidden_digits;
 pub mod s1742_maximum_number_of_balls_in_a_box;
 pub mod s1748_sum_of_unique_elements;
+pub mod s1752_check_if_array_is_sorted_and_rotated;
