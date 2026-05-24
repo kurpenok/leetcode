@@ -50,3 +50,4 @@ pub mod s1742_maximum_number_of_balls_in_a_box;
 pub mod s1748_sum_of_unique_elements;
 pub mod s1752_check_if_array_is_sorted_and_rotated;
 pub mod s1758_minimum_changes_to_make_alternating_binary_string;
+pub mod s1763_longest_nice_substring;
