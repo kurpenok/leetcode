@@ -53,3 +53,4 @@ pub mod s1752_check_if_array_is_sorted_and_rotated;
 pub mod s1758_minimum_changes_to_make_alternating_binary_string;
 pub mod s1763_longest_nice_substring;
 pub mod s1768_merge_strings_alternately;
+pub mod s1773_count_items_matching_a_rule;
