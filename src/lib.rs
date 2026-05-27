@@ -54,3 +54,4 @@ pub mod s1758_minimum_changes_to_make_alternating_binary_string;
 pub mod s1763_longest_nice_substring;
 pub mod s1768_merge_strings_alternately;
 pub mod s1773_count_items_matching_a_rule;
+pub mod s1779_find_nearest_point_that_has_the_same_x_or_y_coordinate;
