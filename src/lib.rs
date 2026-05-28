@@ -55,3 +55,4 @@ pub mod s1763_longest_nice_substring;
 pub mod s1768_merge_strings_alternately;
 pub mod s1773_count_items_matching_a_rule;
 pub mod s1779_find_nearest_point_that_has_the_same_x_or_y_coordinate;
+pub mod s1784_check_if_binary_string_has_at_most_one_segment_of_ones;
