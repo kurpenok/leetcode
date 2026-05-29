@@ -25,6 +25,7 @@ pub mod s0230_kth_smallest_element_in_a_bst;
 pub mod s0235_lowest_common_ancestor_of_a_binary_search_tree;
 pub mod s0236_lowest_common_ancestor_of_a_binary_tree;
 pub mod s0238_product_of_array_except_self;
+pub mod s0240_search_a_2d_matrix_ii;
 pub mod s1624_largest_substring_between_two_equal_characters;
 pub mod s1629_slowest_key;
 pub mod s1636_sort_array_by_increasing_frequency;
