@@ -61,3 +61,4 @@ pub mod s1784_check_if_binary_string_has_at_most_one_segment_of_ones;
 pub mod s1790_check_if_one_string_swap_can_make_strings_equal;
 pub mod s1791_find_center_of_star_graph;
 pub mod s1796_second_largest_digit_in_a_string;
+pub mod s1800_maximum_ascending_subarray_sum;
