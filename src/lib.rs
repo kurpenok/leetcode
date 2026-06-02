@@ -68,3 +68,4 @@ pub mod s1805_number_of_different_integers_in_a_string;
 pub mod s1812_determine_color_of_a_chessboard_square;
 pub mod s1816_truncate_sentence;
 pub mod s1822_sign_of_the_product_of_an_array;
+pub mod s1827_minimum_operations_to_make_the_array_increasing;
