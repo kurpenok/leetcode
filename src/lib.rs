@@ -74,3 +74,4 @@ pub mod s1832_check_if_the_sentence_is_pangram;
 pub mod s1837_sum_of_digits_in_base_k;
 pub mod s1844_replace_all_digits_with_characters;
 pub mod s1848_minimum_distance_to_the_target_element;
+pub mod s1854_maximum_population_year;
