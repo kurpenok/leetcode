@@ -77,3 +77,4 @@ pub mod s1844_replace_all_digits_with_characters;
 pub mod s1848_minimum_distance_to_the_target_element;
 pub mod s1854_maximum_population_year;
 pub mod s1859_sorting_the_sentence;
+pub mod s1863_sum_of_all_subset_xor_totals;
