@@ -80,3 +80,4 @@ pub mod s1859_sorting_the_sentence;
 pub mod s1863_sum_of_all_subset_xor_totals;
 pub mod s1869_longer_contiguous_segments_of_ones_than_zeros;
 pub mod s1876_substrings_of_size_three_with_distinct_characters;
+pub mod s1880_check_if_word_equals_summation_of_two_words;
