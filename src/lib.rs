@@ -30,6 +30,7 @@ pub mod s0241_different_ways_to_add_parentheses;
 pub mod s0260_single_number_iii;
 pub mod s0264_ugly_number_ii;
 pub mod s0274_h_index;
+pub mod s0275_h_index_ii;
 pub mod s1624_largest_substring_between_two_equal_characters;
 pub mod s1629_slowest_key;
 pub mod s1636_sort_array_by_increasing_frequency;
