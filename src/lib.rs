@@ -85,3 +85,4 @@ pub mod s1880_check_if_word_equals_summation_of_two_words;
 pub mod s1886_determine_whether_matrix_can_be_obtained_by_rotation;
 pub mod s1893_check_if_all_the_integers_in_a_range_are_covered;
 pub mod s1897_redistribute_characters_to_make_all_strings_equal;
+pub mod s1903_largest_odd_number_in_string;
