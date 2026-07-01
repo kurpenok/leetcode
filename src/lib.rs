@@ -90,3 +90,4 @@ pub mod s1909_remove_one_element_to_make_the_array_strictly_increasing;
 pub mod s1913_maximum_product_difference_between_two_pairs;
 pub mod s1920_build_array_from_permutation;
 pub mod s1925_count_square_sum_triple;
+pub mod s1929_concatenation_of_array;
