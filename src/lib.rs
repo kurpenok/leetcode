@@ -91,3 +91,4 @@ pub mod s1913_maximum_product_difference_between_two_pairs;
 pub mod s1920_build_array_from_permutation;
 pub mod s1925_count_square_sum_triple;
 pub mod s1929_concatenation_of_array;
+pub mod s1941_check_if_all_characters_have_equal_number_of_occurrences;
