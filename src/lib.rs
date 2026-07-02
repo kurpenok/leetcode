@@ -94,3 +94,4 @@ pub mod s1929_concatenation_of_array;
 pub mod s1941_check_if_all_characters_have_equal_number_of_occurrences;
 pub mod s1945_sum_of_digits_of_string_after_convert;
 pub mod s1952_three_divisors;
+pub mod s1961_check_if_string_is_a_prefix_of_array;
