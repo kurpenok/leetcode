@@ -98,3 +98,4 @@ pub mod s1961_check_if_string_is_a_prefix_of_array;
 pub mod s1967_number_of_strings_that_appear_as_substrings_in_word;
 pub mod s1971_find_if_path_exists_in_graph;
 pub mod s1974_minimum_time_to_type_word_using_special_typewriter;
+pub mod s1979_find_greatest_common_divisor_of_array;
