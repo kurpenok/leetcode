@@ -102,3 +102,4 @@ pub mod s1979_find_greatest_common_divisor_of_array;
 pub mod s1984_minimum_difference_between_highest_and_lowest_of_k_scores;
 pub mod s1991_find_the_middle_index_in_array;
 pub mod s1995_count_special_quadruplets;
+pub mod s2000_reverse_prefix_of_word;
