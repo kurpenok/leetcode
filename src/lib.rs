@@ -106,3 +106,4 @@ pub mod s2000_reverse_prefix_of_word;
 pub mod s2006_count_number_of_pairs_with_absolute_difference_k;
 pub mod s2011_final_value_of_variable_after_performing_operations;
 pub mod s2016_maximum_difference_between_increasing_elements;
+pub mod s2022_convert_1d_array_into_2d_array;
