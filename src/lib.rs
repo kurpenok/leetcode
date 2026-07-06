@@ -104,3 +104,4 @@ pub mod s1991_find_the_middle_index_in_array;
 pub mod s1995_count_special_quadruplets;
 pub mod s2000_reverse_prefix_of_word;
 pub mod s2006_count_number_of_pairs_with_absolute_difference_k;
+pub mod s2011_final_value_of_variable_after_performing_operations;
