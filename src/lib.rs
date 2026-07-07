@@ -108,3 +108,4 @@ pub mod s2011_final_value_of_variable_after_performing_operations;
 pub mod s2016_maximum_difference_between_increasing_elements;
 pub mod s2022_convert_1d_array_into_2d_array;
 pub mod s2027_minimum_moves_to_convert_string;
+pub mod s2032_two_out_of_three;
