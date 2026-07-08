@@ -113,3 +113,4 @@ pub mod s2037_minimum_number_of_moves_to_seat_everyone;
 pub mod s2042_check_if_numbers_are_ascending_in_a_sentence;
 pub mod s2047_number_of_valid_words_in_a_sentence;
 pub mod s2053_kth_distinct_string_in_an_array;
+pub mod s2057_smallest_index_with_equal_value;
