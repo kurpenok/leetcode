@@ -115,3 +115,4 @@ pub mod s2047_number_of_valid_words_in_a_sentence;
 pub mod s2053_kth_distinct_string_in_an_array;
 pub mod s2057_smallest_index_with_equal_value;
 pub mod s2062_count_vowel_substrings_of_a_string;
+pub mod s2068_check_whether_two_strings_are_almost_equivalent;
