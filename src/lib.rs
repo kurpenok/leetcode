@@ -118,3 +118,4 @@ pub mod s2062_count_vowel_substrings_of_a_string;
 pub mod s2068_check_whether_two_strings_are_almost_equivalent;
 pub mod s2073_time_needed_to_buy_tickets;
 pub mod s2078_two_furthest_houses_with_different_colors;
+pub mod s2085_count_common_words_with_one_occurrence;
