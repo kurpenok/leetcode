@@ -120,3 +120,4 @@ pub mod s2073_time_needed_to_buy_tickets;
 pub mod s2078_two_furthest_houses_with_different_colors;
 pub mod s2085_count_common_words_with_one_occurrence;
 pub mod s2089_find_target_indices_after_sorting_array;
+pub mod s2094_finding_3_digit_even_numbers;
