@@ -124,3 +124,4 @@ pub mod s2094_finding_3_digit_even_numbers;
 pub mod s2099_find_subsequence_of_length_k_with_the_largest_sum;
 pub mod s2103_rings_and_rods;
 pub mod s2108_find_first_palindromic_string_in_the_array;
+pub mod s2114_maximum_number_of_words_found_in_sentences;
