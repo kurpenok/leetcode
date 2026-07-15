@@ -122,3 +122,4 @@ pub mod s2085_count_common_words_with_one_occurrence;
 pub mod s2089_find_target_indices_after_sorting_array;
 pub mod s2094_finding_3_digit_even_numbers;
 pub mod s2099_find_subsequence_of_length_k_with_the_largest_sum;
+pub mod s2103_rings_and_rods;
