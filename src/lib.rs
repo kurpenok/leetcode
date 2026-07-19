@@ -128,3 +128,4 @@ pub mod s2114_maximum_number_of_words_found_in_sentences;
 pub mod s2119_a_number_after_a_double_reversal;
 pub mod s2124_check_if_all_a_s_appears_before_all_b_s;
 pub mod s2129_capitalize_the_title;
+pub mod s2133_check_if_every_row_and_column_contains_all_numbers;
