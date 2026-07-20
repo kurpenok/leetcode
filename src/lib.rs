@@ -130,3 +130,4 @@ pub mod s2124_check_if_all_a_s_appears_before_all_b_s;
 pub mod s2129_capitalize_the_title;
 pub mod s2133_check_if_every_row_and_column_contains_all_numbers;
 pub mod s2138_divide_a_string_into_groups_of_size_k;
+pub mod s2144_minimum_cost_of_buying_candies_with_discount;
