@@ -133,3 +133,4 @@ pub mod s2138_divide_a_string_into_groups_of_size_k;
 pub mod s2144_minimum_cost_of_buying_candies_with_discount;
 pub mod s2148_count_elements_with_strictly_smaller_and_greater_elements;
 pub mod s2154_keep_multiplying_found_values_by_two;
+pub mod s2160_minimum_sum_of_four_digit_number_after_splitting_digits;

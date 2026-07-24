@@ -1,0 +1,6 @@
+pub fn minimum_sum(num: i32) -> i32 {
+    let mut digits = [num % 10, num / 10 % 10, num / 100 % 10, num / 1000 % 10];
+    digits.sort_unstable();
+
+    10 * (digits[0] + digits[1]) + digits[2] + digits[3]
+}
