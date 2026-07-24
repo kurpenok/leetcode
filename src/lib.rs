@@ -135,3 +135,4 @@ pub mod s2148_count_elements_with_strictly_smaller_and_greater_elements;
 pub mod s2154_keep_multiplying_found_values_by_two;
 pub mod s2160_minimum_sum_of_four_digit_number_after_splitting_digits;
 pub mod s2164_sort_even_and_odd_indices_independently;
+pub mod s2169_count_operations_to_obtain_zero;
