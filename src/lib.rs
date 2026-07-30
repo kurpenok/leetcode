@@ -139,3 +139,4 @@ pub mod s2169_count_operations_to_obtain_zero;
 pub mod s2176_count_equal_and_divisible_pairs_in_an_array;
 pub mod s2180_count_intergers_with_even_digit_sum;
 pub mod s2185_counting_words_with_a_given_prefix;
+pub mod s2190_most_frequent_number_following_key_in_an_array;
