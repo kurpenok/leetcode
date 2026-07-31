@@ -141,3 +141,4 @@ pub mod s2180_count_intergers_with_even_digit_sum;
 pub mod s2185_counting_words_with_a_given_prefix;
 pub mod s2190_most_frequent_number_following_key_in_an_array;
 pub mod s2194_cells_in_a_range_on_an_excel_sheet;
+pub mod s2200_find_all_k_distant_indices_in_an_array;
